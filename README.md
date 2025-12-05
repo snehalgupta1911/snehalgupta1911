@@ -2,6 +2,7 @@
 Electrical Engineering Student | AI enthusiast | Professional “wait why is this code running” person
 
 Welcome to my GitHub, home of:
+
 -projects I’m proud of,
 -projects I will be proud of once they stop breaking, and
 -projects that were working yesterday and are now ghosting me.
