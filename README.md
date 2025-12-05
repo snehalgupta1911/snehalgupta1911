@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Snehal 👋
+Electrical Engineering Student | AI enthusiast | Professional “wait why is this code running” person
+
+Welcome to my GitHub, home of:
+-projects I’m proud of,
+-projects I will be proud of once they stop breaking, and
+-projects that were working yesterday and are now ghosting me.
+
+My projects run on Python, coffee, and hope.
+Welcome to my little corner of chaos 🌈💻✨
 
 <!--
 **snehalgupta1911/snehalgupta1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
